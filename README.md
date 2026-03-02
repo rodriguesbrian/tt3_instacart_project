@@ -41,7 +41,7 @@ O projeto está dividido em três etapas principais:
 - Pandas, Matplotlib 
 - Jupyter Notebook
 
-> Bibliotecas adicionais usadas estão listadas no `requirements.txt`.
+> Bibliotecas usadas estão listadas no `requirements.txt`.
 
 ---
 
@@ -50,5 +50,5 @@ O projeto está dividido em três etapas principais:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/rodriguesbrian/tt3_instacart_project.git
-cd instacart_project
+git clone https://github.com/rodriguesbrian/tt3_instacart_project
+cd tt3_instacart_project
